@@ -1,0 +1,27 @@
+{
+  "name": "Infographic",
+  "version": "0.1",
+  "homepage": "https://github.com/rterbraak/infographics.git",
+  "authors": [
+    "Rutger ter Braak"
+  ],
+  "description": "",
+  "keywords": [
+    "dashboard",
+    "infographic"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests",
+    "pages",
+    "index.html",
+    "/js"
+  ],
+  "main": [
+  ],
+  "dependencies": {
+  }
+}
